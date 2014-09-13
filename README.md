@@ -23,3 +23,5 @@ This is collection of projects and links about algorithm visualization
 * [Fourier Image Filtering](http://david.li/filtering/)
 * [Fourier Series Visualization](http://bl.ocks.org/jinroh/7524988)
 * [The Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html)
+* [Newton-Raphson Optimization (1D)](http://bl.ocks.org/dannyko/ffe9653768cb80dfc0da)
+* [Newton-Raphson Optimization (2D)](http://bl.ocks.org/dannyko/0956c361a6ce22362867)
