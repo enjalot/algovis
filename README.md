@@ -8,8 +8,14 @@ This is collection of projects and links about algorithm visualization
 * [Gridlock vs. Bottlenecks](http://setosa.io/blog/2014/09/02/gridlock/index.html)
 * [Setosa](http://setosa.io)
 
+# Libraries
 
-# Referrences
+* [Tailspin](http://will.thimbleby.net/algorithms/doku.php): JS interpreter in JS that runs an algorithm and lets the visualization inspect the local variables. Records history to allow stepping backwards too.
+* [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with psuedocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
+* [Algomation](http://www.algomation.com/): algorithm visualization that uses JS generators to pass control between algorithm execution and browser event loop
+* [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
+
+# References
 
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Garbage Collection](http://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
