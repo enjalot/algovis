@@ -11,7 +11,7 @@ This is collection of projects and links about algorithm visualization.
 * [Emergent Mind](http://www.emergentmind.com/) blog (example: [Perceptrons](http://www.emergentmind.com/the-perceptron))
 * [The Nature of Code](http://natureofcode.com/book/) book (example: [Oscillation](http://natureofcode.com/book/chapter-3-oscillation/))
 * [Game Mechanic Explorer](http://gamemechanicexplorer.com/) (example: [Homing Missiles](http://gamemechanicexplorer.com/#homingmissiles-1))
-* [Pixel Shaders] book proposal (http://pixelshaders.com/proposal/)
+* [Pixel Shaders](http://pixelshaders.com/proposal/) book proposal
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
 
 
