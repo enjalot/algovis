@@ -6,14 +6,15 @@ This is collection of projects and links about algorithm visualization.
 # Projects
 
 * [Setosa](http://setosa.io) blog (example: [Gridlock vs. Bottlenecks](http://setosa.io/blog/2014/09/02/gridlock/index.html))
+* [Mathigon](http://world.mathigon.org/) (example: [Sieve of Eratosthenes](http://world.mathigon.org/Prime_Numbers)) and [beta site](http://beta.mathigon.org/)
 * [Encinographic](http://encinographic.blogspot.com/) blog (example: [2D Wave Equation](http://encinographic.blogspot.com/2014/05/sim-class-wave-equation-in-2d.html))
 * [Emergent Mind](http://www.emergentmind.com/) blog (example: [Perceptrons](http://www.emergentmind.com/the-perceptron))
 * [The Nature of Code](http://natureofcode.com/book/) book (example: [Oscillation](http://natureofcode.com/book/chapter-3-oscillation/))
 * [Game Mechanic Explorer](http://gamemechanicexplorer.com/) (example: [Homing Missiles](http://gamemechanicexplorer.com/#homingmissiles-1))
 * [Pixel Shaders](http://pixelshaders.com/proposal/) book proposal
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
-* [Steve Witten](http://acko.net/)
-* [Various game-related algorithms](http://www.redblobgames.com/)
+* [Steve Witten](http://acko.net/) (example: [How to fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - click arrows on slideshows)
+* [Red Blob Games](http://www.redblobgames.com/) (example: [2D Visibility](http://www.redblobgames.com/articles/visibility/))
 
 # Libraries
 
@@ -38,11 +39,14 @@ This is collection of projects and links about algorithm visualization.
 * [Fourier Series Visualization](http://bl.ocks.org/jinroh/7524988)
 * [The Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html)
 * [Animated Bézier Curves](http://www.jasondavies.com/animated-bezier/)
+* [A Primer on Bezier Curves](http://pomax.github.io/bezierinfo/)
 * [Sight And Light](http://ncase.me/sight-and-light/)
 * [Newton-Raphson Optimization (1D)](http://bl.ocks.org/dannyko/ffe9653768cb80dfc0da)
 * [Newton-Raphson Optimization (2D)](http://bl.ocks.org/dannyko/0956c361a6ce22362867)
 * [Comparison of spatial hashing algorithms](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)
 * [Fisher-Yates Shuffle](http://bost.ocks.org/mike/shuffle/)
 * [Tetris in Clojure](http://shaunlebron.com/t3tr0s-slides/)
-* [Animation and interpolation](http://acko.net/blog/animate-your-way-to-glory/)
 * [HyperLogLog for big data distinct values](http://research.neustar.biz/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/)
+* [Cave Culling Algorithm in Minecraft](http://tomcc.github.io/2014/08/31/visibility-1.html)
+* [Explanation of X11 Servers](http://magcius.github.io/xplain/article/) has an X11 server running in the browser!
+* [Manual for rot.js, a roguelike game library](http://ondras.github.io/rot.js/manual/#intro) makes all the examples editable and viewable in the browser
