@@ -13,6 +13,7 @@ This is collection of projects and links about algorithm visualization.
 * [Pixel Shaders](http://pixelshaders.com/proposal/) book proposal
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
 * [Steve Witten](http://acko.net/)
+* [Various game-related algorithms](http://www.redblobgames.com/)
 
 # Libraries
 
