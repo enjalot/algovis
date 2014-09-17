@@ -3,7 +3,6 @@ algovis
 
 This is collection of projects and links about algorithm visualization.
 
-
 # Projects
 
 * [Setosa](http://setosa.io) blog (example: [Gridlock vs. Bottlenecks](http://setosa.io/blog/2014/09/02/gridlock/index.html))
@@ -13,7 +12,8 @@ This is collection of projects and links about algorithm visualization.
 * [Game Mechanic Explorer](http://gamemechanicexplorer.com/) (example: [Homing Missiles](http://gamemechanicexplorer.com/#homingmissiles-1))
 * [Pixel Shaders](http://pixelshaders.com/proposal/) book proposal
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
-
+* [Steve Witten](http://acko.net/)
+* [Various game-related algorithms](http://www.redblobgames.com/)
 
 # Libraries
 
@@ -21,12 +21,14 @@ This is collection of projects and links about algorithm visualization.
 * [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with psuedocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
 * [Algomation](http://www.algomation.com/): algorithm visualization that uses JS generators to pass control between algorithm execution and browser event loop
 * [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
+* [Tangle](http://worrydream.com/Tangle/)
 
 
 # References
 
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Active Essays on the Web](http://tinlizzie.org/chalkboard/#ActiveEssaysOnTheWeb)
+
 
 # Examples
 
@@ -35,6 +37,8 @@ This is collection of projects and links about algorithm visualization.
 * [Fourier Image Filtering](http://david.li/filtering/)
 * [Fourier Series Visualization](http://bl.ocks.org/jinroh/7524988)
 * [The Skyline Problem](https://briangordon.github.io/2014/08/the-skyline-problem.html)
+* [Animated Bézier Curves](http://www.jasondavies.com/animated-bezier/)
+* [Sight And Light](http://ncase.me/sight-and-light/)
 * [Newton-Raphson Optimization (1D)](http://bl.ocks.org/dannyko/ffe9653768cb80dfc0da)
 * [Newton-Raphson Optimization (2D)](http://bl.ocks.org/dannyko/0956c361a6ce22362867)
 * [Comparison of spatial hashing algorithms](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)
