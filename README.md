@@ -15,13 +15,14 @@ This is collection of projects and links about algorithm visualization.
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
 * [Steve Witten](http://acko.net/) (example: [How to fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - click arrows on slideshows)
 * [Red Blob Games](http://www.redblobgames.com/) (example: [2D Visibility](http://www.redblobgames.com/articles/visibility/))
+* [VisuAlgo](http://visualgo.net/) (example: [Finding Minimum Spanning Tree](http://visualgo.net/mst.html))
 
 # Libraries
 
 * [Tailspin](http://will.thimbleby.net/algorithms/doku.php): JS interpreter in JS that runs an algorithm and lets the visualization inspect the local variables. Records history to allow stepping backwards too.
 * [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with psuedocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
 * [Algomation](http://www.algomation.com/): algorithm visualization that uses JS generators to pass control between algorithm execution and browser event loop
-* [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) 
+* [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [Tangle](http://worrydream.com/Tangle/)
 
 
