@@ -30,6 +30,7 @@ This is collection of projects and links about algorithm visualization.
 
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Active Essays on the Web](http://tinlizzie.org/chalkboard/#ActiveEssaysOnTheWeb)
+* [Visualizing sorting algorithms](http://corte.si/posts/code/visualisingsorting/) - arguing that static visualizations are better than algorithm animation
 
 
 # Examples
@@ -51,3 +52,4 @@ This is collection of projects and links about algorithm visualization.
 * [Cave Culling Algorithm in Minecraft](http://tomcc.github.io/2014/08/31/visibility-1.html)
 * [Explanation of X11 Servers](http://magcius.github.io/xplain/article/) has an X11 server running in the browser!
 * [Manual for rot.js, a roguelike game library](http://ondras.github.io/rot.js/manual/#intro) makes all the examples editable and viewable in the browser
+* [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) neural network examples in browser (example: [2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html))
