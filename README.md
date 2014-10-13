@@ -6,16 +6,27 @@ This is collection of projects and links about algorithm visualization.
 # Projects
 
 * [Setosa](http://setosa.io) blog (example: [Gridlock vs. Bottlenecks](http://setosa.io/blog/2014/09/02/gridlock/index.html))
+[<img src='/images/setosa.png' width='800px'/>](http://setosa.io/blog/2014/09/02/gridlock/index.html)
 * [Mathigon](http://world.mathigon.org/) (example: [Sieve of Eratosthenes](http://world.mathigon.org/Prime_Numbers)) and [beta site](http://beta.mathigon.org/)
+[<img src='/images/mathigon.png' width='800px'/>](http://world.mathigon.org/Prime_Numbers)
 * [Encinographic](http://encinographic.blogspot.com/) blog (example: [2D Wave Equation](http://encinographic.blogspot.com/2014/05/sim-class-wave-equation-in-2d.html))
+[<img src='/images/encinographic.png' width='800px'/>](http://encinographic.blogspot.com/2014/05/sim-class-wave-equation-in-2d.html)
 * [Emergent Mind](http://www.emergentmind.com/) blog (example: [Perceptrons](http://www.emergentmind.com/the-perceptron))
+[<img src='/images/emergent_mind.png' width='800px'/>](http://www.emergentmind.com/the-perceptron)
 * [The Nature of Code](http://natureofcode.com/book/) book (example: [Oscillation](http://natureofcode.com/book/chapter-3-oscillation/))
+[<img src='/images/the_nature_of_code.png' width='800px'/>](http://natureofcode.com/book/chapter-3-oscillation/)
 * [Game Mechanic Explorer](http://gamemechanicexplorer.com/) (example: [Homing Missiles](http://gamemechanicexplorer.com/#homingmissiles-1))
+[<img src='/images/game_mechanic_explorer.png' width='800px'/>](http://gamemechanicexplorer.com/#homingmissiles-1)
 * [Pixel Shaders](http://pixelshaders.com/proposal/) book proposal
+[<img src='/images/pixel_shaders.png' width='800px'/>](http://pixelshaders.com/proposal/)
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
+[<img src='/images/probabilistic_models_of_computation.png' width='800px'/>](https://probmods.org/generative-models.html)
 * [Steve Witten](http://acko.net/) (example: [How to fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - click arrows on slideshows)
+[<img src='/images/steve_witten.png' width='800px'/>](http://acko.net/blog/how-to-fold-a-julia-fractal/)
 * [Red Blob Games](http://www.redblobgames.com/) (example: [2D Visibility](http://www.redblobgames.com/articles/visibility/))
+[<img src='/images/red_blob_games.png' width='800px'/>](http://www.redblobgames.com/articles/visibility/)
 * [VisuAlgo](http://visualgo.net/) (example: [Finding Minimum Spanning Tree](http://visualgo.net/mst.html))
+[<img src='/images/visualgo.png' width='800px'/>](http://visualgo.net/mst.html)
 
 # Libraries
 
