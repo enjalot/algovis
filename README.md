@@ -28,12 +28,13 @@ This is collection of projects and links about algorithm visualization.
 * [VisuAlgo](http://visualgo.net/) (example: [Finding Minimum Spanning Tree](http://visualgo.net/mst.html))
 [<img src='/images/visualgo.png' width='800px'/>](http://visualgo.net/mst.html)
 
-# Libraries
+# Libraries & tools
 
 * [Tailspin](http://will.thimbleby.net/algorithms/doku.php): JS interpreter in JS that runs an algorithm and lets the visualization inspect the local variables. Records history to allow stepping backwards too.
 * [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with psuedocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
 * [Algomation](http://www.algomation.com/): algorithm visualization that uses JS generators to pass control between algorithm execution and browser event loop
 * [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [LaTeX2HTML5](http://latex2html5.com/): annotate LaTeX diagrams with interactivity when exporting to HTML
 * [Tangle](http://worrydream.com/Tangle/)
 
 
