@@ -27,6 +27,7 @@ This is collection of projects and links about algorithm visualization.
 [<img src='/images/red_blob_games.png' width='800px'/>](http://www.redblobgames.com/articles/visibility/)
 * [VisuAlgo](http://visualgo.net/) (example: [Finding Minimum Spanning Tree](http://visualgo.net/mst.html))
 [<img src='/images/visualgo.png' width='800px'/>](http://visualgo.net/mst.html)
+* [Khan Academy algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms) (example: [Breadth First Search](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm))
 
 # Libraries & tools
 
