@@ -21,7 +21,7 @@ This is collection of projects and links about algorithm visualization.
 [<img src='/images/pixel_shaders.png' width='800px'/>](http://pixelshaders.com/proposal/)
 * [Probabilistic Models of Computation](https://probmods.org/) book (example: [Generative Models](https://probmods.org/generative-models.html))
 [<img src='/images/probabilistic_models_of_computation.png' width='800px'/>](https://probmods.org/generative-models.html)
-* [Steve Witten](http://acko.net/) (example: [How to fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - click arrows on slideshows)
+* [Steven Wittens](http://acko.net/) (example: [How to fold a Julia Fractal](http://acko.net/blog/how-to-fold-a-julia-fractal/) - click arrows on slideshows)
 [<img src='/images/steve_witten.png' width='800px'/>](http://acko.net/blog/how-to-fold-a-julia-fractal/)
 * [Red Blob Games](http://www.redblobgames.com/) (example: [2D Visibility](http://www.redblobgames.com/articles/visibility/))
 [<img src='/images/red_blob_games.png' width='800px'/>](http://www.redblobgames.com/articles/visibility/)
