@@ -28,6 +28,9 @@ This is collection of projects and links about algorithm visualization.
 * [VisuAlgo](http://visualgo.net/) (example: [Finding Minimum Spanning Tree](http://visualgo.net/mst.html))
 [<img src='/images/visualgo.png' width='800px'/>](http://visualgo.net/mst.html)
 * [Khan Academy algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms) (example: [Breadth First Search](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm))
+[<img src='/images/khan_academy.png' width='800px'/>](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
+* [Christopher Olah](https://colah.github.io/) (example: [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/))
+[<img src='/images/colah.png' width='800px'/>](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
 # Libraries & tools
 
