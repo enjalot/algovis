@@ -31,6 +31,8 @@ This is collection of projects and links about algorithm visualization.
 [<img src='/images/khan_academy.png' width='800px'/>](https://www.khanacademy.org/computing/computer-science/algorithms/breadth-first-search/a/the-breadth-first-search-algorithm)
 * [Christopher Olah](https://colah.github.io/) (example: [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/))
 [<img src='/images/colah.png' width='800px'/>](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+* [Melkman's Algorithm](http://maxgoldste.in/melkman/) Interactive algorithm explanation.
+[<img src='/images/melkman.png' width='800px'/>](http://maxgoldste.in/melkman/)
 
 # Libraries & tools
 
