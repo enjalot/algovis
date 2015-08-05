@@ -65,7 +65,7 @@ This is collection of projects and links about algorithm visualization.
 * [Newton-Raphson Optimization (2D)](http://bl.ocks.org/dannyko/0956c361a6ce22362867)
 * [Comparison of spatial hashing algorithms](http://zufallsgenerator.github.io/2014/01/26/visually-comparing-algorithms/)
 * [Fisher-Yates Shuffle](http://bost.ocks.org/mike/shuffle/)
-* [Tetris in Clojure](http://shaunlebron.com/t3tr0s-slides/)
+* [Tetris in Clojure](http://shaunlebron.github.io/t3tr0s-slides/#0)
 * [HyperLogLog for big data distinct values](http://research.neustar.biz/2012/10/25/sketch-of-the-day-hyperloglog-cornerstone-of-a-big-data-infrastructure/)
 * [Cave Culling Algorithm in Minecraft](http://tomcc.github.io/2014/08/31/visibility-1.html)
 * [Explanation of X11 Servers](http://magcius.github.io/xplain/article/) has an X11 server running in the browser!
