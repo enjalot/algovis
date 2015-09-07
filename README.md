@@ -37,7 +37,7 @@ This is collection of projects and links about algorithm visualization.
 # Libraries & tools
 
 * [Tailspin](http://will.thimbleby.net/algorithms/doku.php): JS interpreter in JS that runs an algorithm and lets the visualization inspect the local variables. Records history to allow stepping backwards too.
-* [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with psuedocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
+* [Vamonos](http://rosulek.github.io/vamonos/): algorithm visualizations with pseudocode shown to reader and JS version underneath, plus some useful widgets to show pseudocode, call stack, data structures
 * [Algomation](http://www.algomation.com/): algorithm visualization that uses JS generators to pass control between algorithm execution and browser event loop
 * [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [LaTeX2HTML5](http://latex2html5.com/): annotate LaTeX diagrams with interactivity when exporting to HTML
