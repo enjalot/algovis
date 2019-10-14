@@ -48,7 +48,7 @@ This is collection of projects and links about algorithm visualization.
 
 * [Visualizing Algorithms](http://bost.ocks.org/mike/algorithms/)
 * [Active Essays on the Web](http://tinlizzie.org/chalkboard/#ActiveEssaysOnTheWeb)
-* [Visualizing sorting algorithms](http://corte.si/posts/code/visualisingsorting/) - arguing that static visualizations are better than algorithm animation
+* [Visualizing sorting algorithms](https://corte.si/posts/code/visualisingsorting/index.html) - arguing that static visualizations are better than algorithm animation
 
 
 # Examples
