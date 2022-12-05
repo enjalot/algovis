@@ -42,6 +42,7 @@ This is collection of projects and links about algorithm visualization.
 * [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [LaTeX2HTML5](http://latex2html5.com/): annotate LaTeX diagrams with interactivity when exporting to HTML
 * [Tangle](http://worrydream.com/Tangle/)
+* [Algviz](https://github.com/zjl9959/algviz): algorithm animation engine for Python in Jupyter that supports vector, table, linked list, tree, and graph data structures.
 
 
 # References
